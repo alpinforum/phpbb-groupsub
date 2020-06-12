@@ -45,10 +45,10 @@ $lang = array_merge($lang, array(
 	'GROUPSUB_PRICE'			=> 'Preis',
 	'GROUPSUB_LENGTH'			=> 'Dauer',
 	'GROUPSUB_LENGTH_UNLIMITED'	=> 'Unlimitiert',
-	'GROUPSUB_SUBSCRIBE'		=> 'Abonnieren',
+	'GROUPSUB_SUBSCRIBE'		=> 'Kostenpflichtig Abonnieren',
 	'GROUPSUB_RENEW'			=> 'Abonnement erneuern',
 	'GROUPSUB_CHOOSE_TERM'		=> '%s abonnieren',
-	'GROUPSUB_SUBSCRIBED'		=> 'Du Abonnement ist unlimitiert',
+	'GROUPSUB_SUBSCRIBED'		=> 'Dein Abonnement ist unlimitiert',
 	'GROUPSUB_SUBSCRIBED_UNTIL'	=> 'Dein Abonnement läuft bis %s',
 	'GROUPSUB_CONFIRM'			=> 'Bestätige das Abonnement für %s',
 

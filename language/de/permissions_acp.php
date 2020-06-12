@@ -38,7 +38,7 @@ if (empty($lang) || !is_array($lang))
 //
 
 $lang = array_merge($lang, array(
-	'ACL_CAT_GROUPSUB'			=> 'Group Subscription',
+	'ACL_CAT_GROUPSUB'			=> 'Gruppenabonnement',
 	'ACL_A_GROUPSUB_SETTINGS'			=> 'Can alter Group Subscription settings',
 	'ACL_A_GROUPSUB_PACKAGES'			=> 'Can create or alter subscription packages',
 	'ACL_A_GROUPSUB_SUBSCRIPTIONS'		=> 'Can view users’ subscriptions',
