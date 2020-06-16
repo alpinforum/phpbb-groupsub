@@ -1,14 +1,4 @@
 <?php
-/**
- *
- * Group Subscription. An extension for the phpBB Forum Software package.
- *
- * @copyright (c) 2019, Steve Guidetti, https://github.com/stevotvr
- * @license GNU General Public License, version 2 (GPL-2.0)
- *
- */
-
-/**
 * DO NOT CHANGE
 */
 if (!defined('IN_PHPBB'))
